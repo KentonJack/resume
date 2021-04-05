@@ -3,9 +3,11 @@ role: Software Engineer
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Flask, Django, Selenium, Docker
-  - Grafana, Splunk, AWS
-  - Elasticsearch, PostgreSQL, Ethereum Smart Contract
+  - Flask, Django, Selenium
+  - AWS, Docker
+  - Grafana, Splunk
+  - Elasticsearch, PostgreSQL
+  - Ethereum Smart Contract
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,5 +33,5 @@ email: ""
 ---
 I am currently a software engineer at AnChain.AI working on web backend development and blockchain stuff. My recent projects are related to data pipeline, RESTful API and Ethereum smart contract security.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "https://drive.google.com/file/d/1e4Ol1EThjjblMuWP0wPQVpzU1UEjmEJx/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
 
