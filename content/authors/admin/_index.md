@@ -2,9 +2,9 @@
 role: Software Engineer
 avatar_filename: avatar.jpg
 bio: ""
-skills:
+interests:
   - Flask, Django, Selenium, Docker
-  - Grafana, Splunk
+  - Grafana, Splunk, AWS
   - Elasticsearch, PostgreSQL, Ethereum Smart Contract
 social:
   - icon: envelope
