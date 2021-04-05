@@ -26,7 +26,7 @@ experience:
     company: AnChain.AI
     company_url: ''
     location: San Jose, California
-    date_start: '2020-03'
+    date_start: '2020-03-02'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,7 +39,7 @@ experience:
     company: SECBIT Labs
     company_url: ''
     location: Suzhou, China
-    date_start: '2018-05'
-    date_end: '2018-08'
+    date_start: '2018-05-01'
+    date_end: '2018-08-10'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
