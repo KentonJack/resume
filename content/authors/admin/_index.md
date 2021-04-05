@@ -1,6 +1,6 @@
 ---
 role: Software Engineer
-avatar_filename: https://ih1.redbubble.net/image.561170933.5360/pp,840x830-pad,1000x1000,f8f8f8.u4.jpg
+avatar_filename: sakamotosan.jpg
 bio: ""
 interests:
   - Backend
@@ -31,4 +31,4 @@ email: ""
 ---
 I am currently a software engineer at AnChain.AI working on web backend development and blockchain stuff. My recent projects are related to data pipeline, RESTful API and Ethereum smart contract security.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
