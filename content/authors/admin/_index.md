@@ -2,10 +2,16 @@
 role: Software Engineer
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Backend
-  - Blockchain
-  - ETL
+skills:
+  - Flask
+  - Django
+  - Selenium
+  - Docker
+  - Grafana
+  - Splunk
+  - Elasticsearch
+  - PostgreSQL
+  - Ethereum Smart Contract
 social:
   - icon: envelope
     icon_pack: fas
