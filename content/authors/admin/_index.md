@@ -28,7 +28,7 @@ education:
       year: 2019
 superuser: true
 highlight_name: false
-title: Tianyi Zhang
+title: Tianyi Zhang (张天弈)
 email: ""
 ---
 I am currently a software engineer at AnChain.AI working on web backend development and blockchain stuff. My recent projects are related to data pipeline, RESTful API and Ethereum smart contract security.
