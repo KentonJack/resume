@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Formal Verification
+    tag: Formal Verification
   - name: Other
     tag: Demo
 
